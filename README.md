@@ -7,3 +7,4 @@ Vamos a ver como funciona GIT.
 ## Autores
 
 - Xuan Álvarez
+- Pepito palotes (añanadido en casa). 
